@@ -1,5 +1,8 @@
 _repo: The-Dragon-Queen-of-Jupiter_61890
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61890-h/images/cover.jpg
 creator:
   author:
     agent_name: Brackett, Leigh
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25398
     wikipedia: https://en.wikipedia.org/wiki/Leigh_Brackett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61890#The-Dragon-Queen-of-Jupiter
 gutenberg_issued: '2020-04-22'
 gutenberg_type: Text
 identifiers:
